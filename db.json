@@ -1,0 +1,120 @@
+{
+  "introduction": {
+    "intro": "Introduction",
+    "stroyless": "Everyone knows that the original is always better than a copy, and if you decide to get acquainted with Eastern culture, traditional healing, it is the best to return to the original roots. In the salon “5 Elements” we work with massage experts from the Kingdom of Thailand, also the islands of Bali and India (Kerala).",
+    "storymore": "Entering into my SPA salon, you will find yourself in an atmosphere of hospitality. Melodious music, Eastern flavors, flickering candles, tea ceremony and wonderful beauty and healthcare rituals will carry you away from the urban bustle to the paradise, where everything is for you and for your sake. The cozy atmosphere in every room, complete isolation from the outside world, and the sensitive hands of professional masseuses will help you to forget about your problems for a while. After the massage, a cup of special chinese tea, will inflow vitality and positive emotions into your body and mind."
+  },
+  "services": [
+    {
+      "name": "TRADITIONAL THAI MASSAGE",
+      "whatisit": "Traditional Thai massage or “yoga massage” is a kind of holistic medicine, which is extremely beneficial to human body. It is basically passive exercise, with yoga body movements, postures and stretching."
+    },
+    {
+      "name": "TRADITIONAL THAI OIL MASSAGE",
+      "whatisit": "Thai oil massage – a celebration, sumptuous feasts and fairy skin, muscles and olfactory receptors. This is a jazz concert for your back, arms and legs, it’s a salad of exotic fruits to your neurons, a bouquet of strange colours for your receptors."
+    },
+    {
+      "name": "TRADITIONAL THAI FOOT MASSAGE",
+      "whatisit": "Thai foot massage is the perfect tool for the recovery of the feet, relieving stress and treating insomnia and hypertension, it is also capable to create powerful and long-term relax, excellent for blood pressure problems, relieves tension, spasms and swelling of the legs."
+    },
+    {
+      "name": "TOK-SEN MASSAGE",
+      "whatisit": "Tok Sen Massage – this ancient healing procedure is based on the therapeutic effects of Thai massage with tapping of the whole body with special hammer and a stick. Tok Sen can be called “Thai massage for gourmets."
+    },
+    {
+      "name": "AROMA OIL MASSAGE WITH ORGANIC OILS",
+      "whatisit": "is relaxing Thai massage is performed with high quality organic aromatic oils. The action of essential oils enhances the healing properties of massage and eliminates discomfort, fatigue, muscle spasms, removes toxins and reduces muscle pain."
+    },
+    {
+      "name": "BALINESE OIL MASSAGE",
+      "whatisit": "Balinese massage – traditionally performed on the island of Bali (Island of the Gods), has a characteristic effect of relaxation and calm, which is achieved by touching the inner parts of the palms, fingertips and techniques of acupressure."
+    }
+  ],
+  "price": [
+    {
+      "name": "TRADITIONAL THAI MASSAGE",
+      "price": "5000 Ft"
+    },
+    {
+      "name": "TRADITIONAL THAI OIL MASSAGE",
+      "price": "6000 Ft"
+    },
+    {
+      "name": "TRADITIONAL THAI FOOT MASSAGE",
+      "price": "5500 Ft"
+    },
+    {
+      "name": "TOK-SEN MASSAGE",
+      "price": "7000 Ft"
+    },
+    {
+      "name": "AROMA OIL MASSAGE WITH ORGANIC OILS",
+      "price": "8000 Ft"
+    },
+    {
+      "name": "BALINESE OIL MASSAGE",
+      "price": "7000 Ft"
+    }
+  ],
+  "contact": {
+    "name": "Jane Doe",
+    "phone": "20/444-444-4",
+    "email": "janedoe@thaisalon.com",
+    "address": "Budapest Deak square 5. "
+  },
+
+  "appointments": [
+    {
+      "Monday": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00"
+      ],
+      "Tuesday": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00"
+      ],
+      "Wednesday": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00"
+      ],
+      "Thursday": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00"
+      ],
+      "Friday": [
+        "10:00",
+        "11:00",
+        "12:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00",
+        "17:00"
+      ]
+    }
+  ]
+}
